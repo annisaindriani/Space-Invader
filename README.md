@@ -1,4 +1,4 @@
-# Space-Invader
+# Space Invader
 ## Description
 This project aims to recreate the classic game Space Invader using the C programming language, focusing on fundamental C syntax and programming concepts. The game allows players to engage in an exciting battle against invading aliens, implementing basic game mechanics such as movement, shooting, and collision detection.
 
